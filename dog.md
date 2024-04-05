@@ -75,6 +75,8 @@ line connecting 2different breeds:
 ![image](https://github.com/agamat/agamat.github.io/assets/10011789/5e219b06-2b18-4b09-a725-15ff6886dbdd)
 
 
+![image](https://github.com/agamat/agamat.github.io/assets/10011789/e5b2d0d9-706d-48c1-aaf2-8a247dad6659)
+
 a clade (Greek 'branch')= monophyletic group ; common ancestor 
 
 
@@ -87,7 +89,6 @@ w+
 breed creation by selection 
 +initial founder population 
 -recent admixture
-
 
 
 these breeds were likely created by selectively breeding from an original group of dogs
