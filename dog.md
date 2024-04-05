@@ -70,3 +70,6 @@ line connecting 2different breeds:
 - breeds have very similar genetic backgrounds
 - over 95% of their shared genetic material (haplotypes) is the same as the genetic material shared among all the dogs within each breed
 
+![image](https://github.com/agamat/agamat.github.io/assets/10011789/5e219b06-2b18-4b09-a725-15ff6886dbdd)
+
+
