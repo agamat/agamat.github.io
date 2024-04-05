@@ -109,3 +109,6 @@ y: the amount of shared genetic material (median total haplotype)
 - the more recent the mixing of breeds
 - the higher the percentage of shared genetic material between them
 
+  ![image](https://github.com/agamat/agamat.github.io/assets/10011789/816105c6-6f34-4ddb-ba2c-b3919be33f81)
+
+
