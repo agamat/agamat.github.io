@@ -96,6 +96,16 @@ these breeds were likely created by selectively breeding from an original group 
 rather than through mixing 
 with other breeds in recent times
 
+low level of genetic sharing between diverse breeds
 
 ![image](https://github.com/agamat/agamat.github.io/assets/10011789/7a90cbf5-14a3-4dbc-a27a-2b83e7b46dfc)
+
+
+fig5:
+
+x: time of mixing (years ago) 
+y: the amount of shared genetic material (median total haplotype)
+
+- the more recent the mixing of breeds
+- the higher the percentage of shared genetic material between them
 
