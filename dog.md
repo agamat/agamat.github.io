@@ -65,6 +65,8 @@ haplotype sharing : all dogs of each breed
 of
 haplotype sharing : across clades
 
+a median haplotype sharing between all dogs of each breed in excess of 95% of all haplotype sharing across clades
+
 
 line connecting 2different breeds:
 - breeds have very similar genetic backgrounds
@@ -74,3 +76,21 @@ line connecting 2different breeds:
 
 
 a clade (Greek 'branch')= monophyletic group ; common ancestor 
+
+
+54% breeds= 23 established clades
+share large haplotypes 
+w+
+ 1 /0 breeds outside their clade
+
+
+breed creation by selection 
++initial founder population 
+-recent admixture
+
+
+
+these breeds were likely created by selectively breeding from an original group of dogs
+
+rather than through mixing 
+with other breeds in recent times
