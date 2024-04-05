@@ -73,3 +73,4 @@ line connecting 2different breeds:
 ![image](https://github.com/agamat/agamat.github.io/assets/10011789/5e219b06-2b18-4b09-a725-15ff6886dbdd)
 
 
+a clade (Greek 'branch')= monophyletic group ; common ancestor 
