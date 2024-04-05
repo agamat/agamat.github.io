@@ -112,3 +112,6 @@ y: the amount of shared genetic material (median total haplotype)
   ![image](https://github.com/agamat/agamat.github.io/assets/10011789/816105c6-6f34-4ddb-ba2c-b3919be33f81)
 
 
+the newer the breed created from crossbreeding, the more shared genetic material it tends to have with its parent breeds
+
+
