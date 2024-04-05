@@ -59,3 +59,14 @@ Breeds colored / ordered according to clade position in Fig1
 ![image](https://github.com/agamat/agamat.github.io/assets/10011789/9bdec4b5-4edd-4a7e-b7f8-b0a0ed6ea2fc)
 
 
+ribbons connecting breeds = a median 
+haplotype sharing : all dogs of each breed 
+- over 95% 
+of
+haplotype sharing : across clades
+
+
+line connecting 2different breeds:
+- breeds have very similar genetic backgrounds
+- over 95% of their shared genetic material (haplotypes) is the same as the genetic material shared among all the dogs within each breed
+
