@@ -115,3 +115,18 @@ y: the amount of shared genetic material (median total haplotype)
 the newer the breed created from crossbreeding, the more shared genetic material it tends to have with its parent breeds
 
 
+t multi-breed clades formed through
+- recent admixture 
+- common ancestral sources?
+
+migration in 18 groups 
+of
+- 4 / more breeds:
+
+
+- 16 clades (tree)
+- 2 groups 
+of
+ small clades :
+- american terrier/american toy ^
+- small spitz/toy spitz/schnauzer
