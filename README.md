@@ -1,8 +1,6 @@
-https://youtu.be/qKrTaNHGiKU?t=68
+[Baska](https://youtu.be/qKrTaNHGiKU?t=68) [exam](https://youtu.be/MmtbHRsySZg?t=45)
 
-
-
-https://github.com/agamat/agamat.github.io/edit/master/README.md
+[readme](https://github.com/agamat/agamat.github.io/edit/master/README.md)
 
 
 
