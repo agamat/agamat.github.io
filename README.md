@@ -10,6 +10,10 @@
 [qsar_py](https://drive.google.com/file/d/1JIpQODD9TyBzHp6J1b91J7HBsvhjnXqf/view?usp=sharing)
 
 
+[mg1](https://docs.google.com/presentation/d/16SOQc-XhzFw5F2Yt_NGD9b1EUtvsBxOO37q4g5k7kak/edit?usp=sharing)
+[mg2](https://docs.google.com/presentation/d/17tHPZMO3ifiHgIFUx_Xp4Da5V5DPMq7BR7ASNB-of9g/edit?usp=sharing)
+[mg3](https://docs.google.com/presentation/d/1NFaneBN0-V6HP16aCKHp70-hUWEtYqZoZ_PJiPlLutk/edit?usp=sharing)
+
 [multi](https://github.com/agamat/multitorsion/)  
 - [Liwo_pl](https://youtu.be/9MR7xAUzQgA?t=30)
 - [Liwo_en17](https://youtu.be/Fdnn-y16068?t=1)
