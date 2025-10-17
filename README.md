@@ -6,7 +6,8 @@
 [readme](https://github.com/agamat/agamat.github.io/edit/master/README.md)
 
 
-
+[qsar_pres](https://docs.google.com/presentation/d/1JPs78G7_0VDCpoK7XuSAQvZTnodW2NR5_YmZE83cFaY/edit?usp=sharing)
+[qsar_py](https://drive.google.com/file/d/1JIpQODD9TyBzHp6J1b91J7HBsvhjnXqf/view?usp=sharing)
 
 
 [multi](https://github.com/agamat/multitorsion/)  
