@@ -1,9 +1,7 @@
+[readme](https://github.com/agamat/agamat.github.io/edit/master/README.md)
 
 
 [BUG](https://katalog-bug.ug.edu.pl/discovery/search?query=any,contains,UNRES&tab=Everything&search_scope=MyInst_and_CI&vid=48FAR_UGD:48UGD&facet=location_code,include,8343%E2%80%9341448891340008343%E2%80%9390028&offset=0)
-
-
-[readme](https://github.com/agamat/agamat.github.io/edit/master/README.md)
 
 
 [qsar_pres](https://docs.google.com/presentation/d/1JPs78G7_0VDCpoK7XuSAQvZTnodW2NR5_YmZE83cFaY/edit?usp=sharing)
@@ -25,9 +23,5 @@ people
 
 [43](https://github.com/agamat/43)
 
-
-
 [Baska](https://youtu.be/qKrTaNHGiKU?t=68) [exam](https://youtu.be/MmtbHRsySZg?t=45)
 
-
-- git add -A; git commit -m '251020';git push -u origin main
