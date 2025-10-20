@@ -30,3 +30,4 @@ people
 [Baska](https://youtu.be/qKrTaNHGiKU?t=68) [exam](https://youtu.be/MmtbHRsySZg?t=45)
 
 
+- git add -A; git commit -m '251020';git push -u origin main
