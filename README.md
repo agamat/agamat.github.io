@@ -19,7 +19,7 @@ people
 
 
 
-[Baska](https://youtu.be/qKrTaNHGiKU?t=68) [exam](https://youtu.be/MmtbHRsySZg?t=45) ago
+[Baska](https://youtu.be/qKrTaNHGiKU?t=68) [exam](https://youtu.be/MmtbHRsySZg?t=45) ago--------------
 
 
 [qsar_pres](https://docs.google.com/presentation/d/1JPs78G7_0VDCpoK7XuSAQvZTnodW2NR5_YmZE83cFaY/edit?usp=sharing)
