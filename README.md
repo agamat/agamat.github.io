@@ -23,5 +23,5 @@ people
 
 [43](https://github.com/agamat/43)
 
-[Baska](https://youtu.be/qKrTaNHGiKU?t=68) [exam](https://youtu.be/MmtbHRsySZg?t=45)
+[Baska](https://youtu.be/qKrTaNHGiKU?t=68) [exam](https://youtu.be/MmtbHRsySZg?t=45) ago
 
