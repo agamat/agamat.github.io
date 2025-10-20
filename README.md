@@ -13,7 +13,7 @@
 [mg3](https://docs.google.com/presentation/d/1NFaneBN0-V6HP16aCKHp70-hUWEtYqZoZ_PJiPlLutk/edit?usp=sharing)
 
 [multi](https://github.com/agamat/multitorsion/)  [WAY](https://github.com/agamat/way/)  
-- [Liwo_pl](https://youtu.be/9MR7xAUzQgA?t=30)
+- [Liwo_pl](https://youtu.be/9MR7xAUzQgA?t=30)  pt nie (od 8:30 do 12:00)
 - [Liwo_en17](https://youtu.be/Fdnn-y16068?t=1)
 
 people
