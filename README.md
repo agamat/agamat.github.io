@@ -14,7 +14,7 @@
 [mg2](https://docs.google.com/presentation/d/17tHPZMO3ifiHgIFUx_Xp4Da5V5DPMq7BR7ASNB-of9g/edit?usp=sharing)
 [mg3](https://docs.google.com/presentation/d/1NFaneBN0-V6HP16aCKHp70-hUWEtYqZoZ_PJiPlLutk/edit?usp=sharing)
 
-[multi](https://github.com/agamat/multitorsion/)  
+[multi](https://github.com/agamat/multitorsion/)  [WAY](https://github.com/agamat/way/)  
 - [Liwo_pl](https://youtu.be/9MR7xAUzQgA?t=30)
 - [Liwo_en17](https://youtu.be/Fdnn-y16068?t=1)
 
