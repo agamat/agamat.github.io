@@ -25,6 +25,8 @@ people
 [qsar_pres](https://docs.google.com/presentation/d/1JPs78G7_0VDCpoK7XuSAQvZTnodW2NR5_YmZE83cFaY/edit?usp=sharing)
 [qsar_py](https://drive.google.com/file/d/1JIpQODD9TyBzHp6J1b91J7HBsvhjnXqf/view?usp=sharing)
 
+[qsar](https://github.com/agamat/qsar_dch)
+
 
 [mg1](https://docs.google.com/presentation/d/16SOQc-XhzFw5F2Yt_NGD9b1EUtvsBxOO37q4g5k7kak/edit?usp=sharing)
 [mg2](https://docs.google.com/presentation/d/17tHPZMO3ifiHgIFUx_Xp4Da5V5DPMq7BR7ASNB-of9g/edit?usp=sharing)
