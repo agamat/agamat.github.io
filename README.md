@@ -28,10 +28,6 @@ people
 [qsar](https://github.com/agamat/qsar_dch)
 
 
-[mg1](https://docs.google.com/presentation/d/16SOQc-XhzFw5F2Yt_NGD9b1EUtvsBxOO37q4g5k7kak/edit?usp=sharing)
-[mg2](https://docs.google.com/presentation/d/17tHPZMO3ifiHgIFUx_Xp4Da5V5DPMq7BR7ASNB-of9g/edit?usp=sharing)
-[mg3](https://docs.google.com/presentation/d/1NFaneBN0-V6HP16aCKHp70-hUWEtYqZoZ_PJiPlLutk/edit?usp=sharing)
-
 [ML2](https://drive.google.com/drive/u/1/folders/1d4ewJ0nWw8xWtOM_R3qInTxSIN_fxXo-)
 [ML2](https://github.com/agamat/ML_lab)
 
